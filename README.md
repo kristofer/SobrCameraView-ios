@@ -1,4 +1,4 @@
-# THIS REPOSITORY WILL NO LONGER BE MAINTAINED BY THE DEVELOPER.
+# To be Used in Tioga.
 Feel free to fork and enhance it.
 
 SobrCameraView for iOS
